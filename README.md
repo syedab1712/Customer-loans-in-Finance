@@ -43,9 +43,9 @@ Extracting data
 Using data to make informed predictions and suggestions
 
 Installation
-Clone GitHub repository: git clone [https://github.com/syedab1712/MainProject](https://github.com/syedab1712/Exploratory-Data-Analysis---Customer-Loans-in-Finance)
+Clone GitHub repository: git clone (https://github.com/syedab1712/Exploratory-Data-Analysis---Customer-Loans-in-Finance)
 
-Navigate into the project directory: [https://github.com/syedab1712/MainProject](https://github.com/syedab1712/Exploratory-Data-Analysis---Customer-Loans-in-Finance)
+Navigate into the project directory:(https://github.com/syedab1712/Exploratory-Data-Analysis---Customer-Loans-in-Finance)
 
 Usage
 Use code to import import and connect to database using credentials, clean and analyse financial data
